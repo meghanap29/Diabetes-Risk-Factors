@@ -2,6 +2,7 @@
 
 This project explores the relationship between key health indicators and diabetes diagnosis using a real-world dataset of 100,000 patients. It combines exploratory data analysis, data cleaning, predictive modeling, and interactive visualizations in Tableau to uncover meaningful health insights.
 
+Viz - https://public.tableau.com/app/profile/meghana.patil2249/viz/DiabetesRiskFactors_17530624785200/Dashboard1
 ---
 
 ## 📌 Objectives
